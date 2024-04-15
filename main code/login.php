@@ -112,7 +112,7 @@ if (isset($_COOKIE['email']) && !isset($_SESSION['google_signin_processed'])) {
    <script src="https://www.gstatic.com/firebasejs/4.4.0/firebase.js"></script>
    <script>
       const config = {
-         apiKey: "AIzaSyDumHgu1fzLBMh5QcQCvHl6Qoy4WWUCat4",
+         apiKey: " ",//paste your api key here.
          authDomain: "kisanmitra-36dec.firebaseapp.com",
          projectId: "kisanmitra-36dec",
          storageBucket: "kisanmitra-36dec.appspot.com",

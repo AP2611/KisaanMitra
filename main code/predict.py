@@ -5,7 +5,7 @@ st.write(" ")
 st.write(" ")
 st.write(" ")
 st.write(" ")
-genai.configure(api_key="AIzaSyABuxpA7Hq8FXvE7bLASimMwDm58Dxn1ho")
+genai.configure(api_key="") #paste your api key here.
 var=""
 def create_gen_model():
     return genai.GenerativeModel('models/gemini-pro')

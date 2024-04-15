@@ -117,7 +117,7 @@ if (isset($_POST['submit'])) {
   <script>
 
   const config = {  
-    apiKey: "AIzaSyAq51kE7d3xd6DOJsxvEPWEXVpgtTgAHrU",
+    apiKey: " ",//paste your api key here.
     authDomain: "agro-4d833.firebaseapp.com",
     projectId: "agro-4d833",
     storageBucket: "agro-4d833.appspot.com",
